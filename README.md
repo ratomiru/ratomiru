@@ -1,16 +1,15 @@
-## Hi there 👋
+## 📚 読書リスト
 
-<!--
-**ratomiru/ratomiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| タイトル                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | ステータス | 読了日     |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- |
+| [本のタイトル 1](リンク)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 読了       | YYYY年MM月DD日 |
+| [ドメイン駆動設計 モデリング/実装ガイド](https://booth.pm/ja/items/1835632)                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 読書中     |            |
+| [Clean Architecture 達人に学ぶソフトウェアの構造と設計](https://www.amazon.co.jp/Clean-Architecture-%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E8%A8%AD%E8%A8%88-%E3%82%A2%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B4-%EF%BC%B2%EF%BD%8F%EF%BD%82%EF%BD%85%EF%BD%92%EF%BD%94-%EF%BC%A3%EF%BC%8E%EF%BC%AD%EF%BD%81%EF%BD%92%EF%BD%94%EF%BD%89%EF%BD%8E-ebook/dp/B07FSBHS2V/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) | 未読       |            |
 
-Here are some ideas to get you started:
+## ✍️ 執筆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| タイトル                                               | ステータス | 投稿日     |
+| ------------------------------------------------------ | ---------- | ---------- |
+| [記事タイトル 1](リンク)                               | 投稿済み   | YYYY年MM月DD日 |
+| [記事タイトル 2](リンク)                               | 執筆中     |            |
+| Feature Sliced Designを教えるAIチャットボットの作成 | 執筆予定   |            |
